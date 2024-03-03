@@ -1,9 +1,19 @@
-# React + Vite
+<h1> Redux_Crud </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I've independently designed and coded a responsive Redux_Crud website, and it's ready to explore!
 
-Currently, two official plugins are available:
+🔸 Project Name: Redux_Crud Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Redux_Crud
+🔸 Technologies Used: React, Redux Toolkit, React Redux, React Router Dom, Bootstrap, React Bootstrap
+
+🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers. CRUD project includes adding, editing and deleting features created with react redux and used json server and react vite library.
+
+🔸 Functions:
+- Adding: Users can add new tasks.
+- Update: Users can update existing tasks.
+- Delete: Users can delete existing tasks.
+- Listing: Users can view the tasks they added in a list.
+
+<h2>Screen_Shoot</h2>
+
+![](screen_redux_crud.gif)
